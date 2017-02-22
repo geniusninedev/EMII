@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/expandli"
+        android:textSize="18dp"
+        android:textColor="@android:color/black"
+        android:layout_weight="1"
+        android:paddingTop="6.5dp"
+        android:paddingBottom="10dp"
+        android:paddingStart="50dp"
+        android:paddingLeft="50dp"
+        />
+</LinearLayout>
